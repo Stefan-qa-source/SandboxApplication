@@ -40,7 +40,6 @@ namespace SandboxProject.ApplicationStructure.Pages
 
             return this;
 
-            //b[contains(text(), 'Technologies')]
         }
 
         public TeamsPage ClickOnTeamFromTheList(int teamRow)

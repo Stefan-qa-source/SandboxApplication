@@ -33,7 +33,7 @@ namespace SandboxProject.ApplicationStructure.Pages
 
             return this;
         }
-
+        
         public PlaygroundPage NavigateToPeoplePage()
         {
             Driver.FindElement(By.XPath(PlaygroundPageConstants.PeopleTAB)).Click();
